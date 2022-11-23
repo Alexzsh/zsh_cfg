@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>17001C7F-F906-41E8-8895-82F5E27BB312</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>b</string>
+			<key>text</key>
+			<string>baidu</string>
+			<key>url</key>
+			<string>https://www.baidu.com/s?wd={query}</string>
+		</dict>
+		<key>7763B26A-D465-4FA6-B497-D333A06A6185</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>gh</string>
+			<key>text</key>
+			<string>github</string>
+			<key>url</key>
+			<string>https://github.com/search?utf8=%E2%9C%93&amp;q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
